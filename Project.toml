@@ -1,0 +1,8 @@
+name = "printerpolate"
+uuid = "f61d6442-f355-4750-a6d1-2341cc60adbd"
+authors = ["Tony Pierre <51774711+hjk971@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
