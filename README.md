@@ -3,6 +3,11 @@
 Using Lagrangian Polynomial Interpolation
 
 # Documentation
+Load the package by 
+```bash
+using printerpolate
+```
+
 ## interpolate
 ```bash
 interpolate(x, data)
